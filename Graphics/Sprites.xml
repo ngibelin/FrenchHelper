@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Sprites>
+  <FrenchHelperTheoBerry path="collectables/FrenchHelper/TheoBerry/">
+    <Center />
+    <Loop id="idle" path="idle" delay=".1" frames="0-5" />
+    <Anim id="collect" path="yolo" delay=".07" frames="0-18"/>
+  </FrenchHelperTheoBerry>
+</Sprites>

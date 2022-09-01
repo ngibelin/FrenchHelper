@@ -1,0 +1,3 @@
+# Strong Jelly
+placements.entities.FrenchHelper/StrongJelly.tooltips.JellyColor=Hexadecimal code (no need for character #) of the color of the jelly, including particles
+placements.entities.FrenchHelper/StrongJelly.tooltips.BarrierBehavior=Behavior of the Jelly when colliding with a barrier (AllThrough = always going through barriers, ColorCoded = going through barriers of the same color, Vanilla = never going through barriers)

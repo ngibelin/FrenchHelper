@@ -1,0 +1,3 @@
+# Strong Jelly
+placements.entities.FrenchHelper/StrongJelly.tooltips.JellyColor=Code hexadécimal de la couleur de la méduse, y compris les particules. charactère '#' inutile.
+placements.entities.FrenchHelper/StrongJelly.tooltips.BarrierBehavior=Comportement de la méduse lorsqu'elle encontre une barrière. AllThrough = traverse toutes les barrières, ColorCoded = ne traverse que les barrières de la même couleur, Vanilla = ne traverse aucune barrière
