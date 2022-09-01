@@ -1,0 +1,8 @@
+# ignore bin folder
+bin\*
+
+# ignore obj folder
+obj\*
+
+# ignore dll files
+*.dll
