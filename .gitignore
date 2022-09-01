@@ -1,8 +1,8 @@
 # ignore bin folder
-bin\*
+bin/*
 
 # ignore obj folder
-obj\*
+obj/*
 
 # ignore dll files
 *.dll
